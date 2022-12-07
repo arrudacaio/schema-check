@@ -1,0 +1,5 @@
+DROP SCHEMA correction CASCADE;
+CREATE SCHEMA correction;
+
+DROP SCHEMA public CASCADE;
+CREATE SCHEMA public;
