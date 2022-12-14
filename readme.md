@@ -10,14 +10,6 @@
 ```sh
 make build
 ```
-
-Após este comando, será necessário entrar no banco de dados que foi criado, (para ver as credenciais de acesso basta acessar o docker-compose.yml) e rodar a seguinte query:
-
-```sh
-CREATE SCHEMA IF NOT EXISTS lesson;
-CREATE SCHEMA IF NOT EXISTS correction;
-```
-
 ### Como utilizar a aplicação?
 
 ```sh
