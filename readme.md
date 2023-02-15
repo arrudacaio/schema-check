@@ -1,3 +1,4 @@
+# SchemaCheck: Corretor Automático de Esquemas SQL
 
 ### Requisitos mínimos
 - [Git](https://git-scm.com/)
